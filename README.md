@@ -38,7 +38,7 @@
 
   <p>
     <a href="https://github.com/FabryLora/Projecto-final-Coder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabryLora&repo=Projecto-final-Coder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/FabryLora/social-network-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabryLora&repo=social-network-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/FabryLora/Game-of-Thrones-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabryLora&repo=Game-of-Thrones-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/FabryLora/task-manager-juli"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabryLora&repo=task-manager-juli&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
             
             
